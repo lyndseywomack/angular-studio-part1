@@ -1,4 +1,4 @@
 org/launchcode/hellospring/HelloSpringApplication.java
  org.launchcode.hellospring.HelloSpringApplication
-org/launchcode/hellospring/controllers/HelloController.java
- org.launchcode.hellospring.controllers.HelloController
+org/launchcode/hellospring/controllers/HelloControllers.java
+ org.launchcode.hellospring.controllers.HelloControllers
